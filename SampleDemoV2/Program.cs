@@ -11,5 +11,10 @@ namespace SampleDemoV2
         static void Main(string[] args)
         {
         }
+
+        public int Sum(int i, int j)
+        {
+            return i + j;
+        }
     }
 }
