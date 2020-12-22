@@ -21,5 +21,12 @@ namespace SampleDemoV2
         {
             return i * j;
         }
+
+        public double Divide(int i, int j)
+        {
+            return (double)i / j;
+        }
+
+
     }
 }
